@@ -13,7 +13,7 @@ Let’s go back in time two centuries, and try to understand, what exactly is a 
 A metal detector is a tool that first came to light in the mid of the 19th century by various scientists, scholars, and gold miners, who’d all shared the same theory about a machine that could pinpoint the location of metal, buried underground. 
 However, the very first metal detector mentioned in history wasn’t used to search for metal.  
 
-<img src="/assets/images/Scientists-discussion.jpg" alt="Scientist discussion" width="2000" height="2000"> 
+<img src="/assets/images/Scientists-discussion.jpg" alt="Scientist discussion" width="1000" height="1000"> 
   
 But, instead, it was used to try and save the 20th President of the United States, James Garfield, after he got hit by a bullet in the back, at the Baltimore and Potomac Railroad Station, Washington D.C. on July 2, 1881, by Charles J. Guiteau. 
 Although their first intention was to be used to search for metal, they have been used for medical purposes such as: extracting bullets from patients, and eventually, to be used even to detect landmines in war zones. 
