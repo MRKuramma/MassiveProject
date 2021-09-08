@@ -13,7 +13,7 @@ Let’s go back in time two centuries, and try to understand, what exactly is a 
 A metal detector is a tool that first came to light in the mid of the 19th century by various scientists, scholars, and gold miners, who’d all shared the same theory about a machine that could pinpoint the location of metal, buried underground. 
 However, the very first metal detector mentioned in history wasn’t used to search for metal.  
 
-<img src="/assets/images/Scientists-discussion.jpg" alt="Scientist discussion" width="auto" height="auto"> 
+<img src="/assets/images/Scientists-discussion.jpg" alt="Scientist discussion" width="1000" height="1000"> 
   
 But, instead, it was used to try and save the 20th President of the United States, James Garfield, after he got hit by a bullet in the back, at the Baltimore and Potomac Railroad Station, Washington D.C. on July 2, 1881, by Charles J. Guiteau. 
 Although their first intention was to be used to search for metal, they have been used for medical purposes such as: extracting bullets from patients, and eventually, to be used even to detect landmines in war zones. 
@@ -28,7 +28,7 @@ That’s why metal detectors play such an important role, both medically, milita
 It didn’t take long for Metal detecting to become a hobby for daily usage.
 People knew they could get rich fast, if they would’ve started to use Metal Detectors on a daily basis, on the hope of finding ancient artifacts, coins, jewelry, etc.
 
-<img src="/assets/images/Gold-coins.jpg" alt="Gold coins" width="auto" height="auto"> 
+<img src="/assets/images/Gold-coins.jpg" alt="Gold coins" width="1000" height="1000"> 
 
 The more they use it, the higher their chances to find artifacts is.
 But, just having a metal detector, doesn’t necessarily mean it's good.
