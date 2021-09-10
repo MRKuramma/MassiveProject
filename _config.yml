@@ -58,13 +58,21 @@ plugins:
 
 
 defaults:
-  - scope:
-      path: ""
-      type: posts
+-   scope:
+      path: "_posts"
     values:
       layout: single
-      author_profile: true
+      permalink: /:categories/:title
+      toc_sticky: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      words_per_minute: 200
+-   scope:
+      path: "_pages"
+    values:
+      permalink: /:basename
+      layout: single
+include:
+    - _pages
+sass:
+  sass_dir: _sass
+  style: compressed

@@ -1,10 +1,12 @@
 ---
-layout: single
 title:  "Introduction to Metal Detecting"
+categories:
+toc: true
+tags: metal metal-detector gold iron parts
+last_modified_at: 
+excerpt: 
 ---
-
 ## History and Development
-
 So, before we dive in deep into metal detecting, Treasure Hunting, Treasure Spots, etc.
 We first need to understand its development stages, and for what reason, it was invented. 
 
