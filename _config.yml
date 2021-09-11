@@ -76,3 +76,9 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+  
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-SRNVPNJMGF"
+    anonymize_ip: false
