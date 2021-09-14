@@ -7,4 +7,4 @@ last_modified_at:
 excerpt:
 ---
 
-<img src="assets/images/steven-morrison.png" alt="Picture" height="auto" width="auto">
+<img src="assets/images/steven-morrison.png" alt="Picture" height="500" width="500">
