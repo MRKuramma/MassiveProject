@@ -7,4 +7,10 @@ last_modified_at:
 excerpt:
 ---
 
-<img src="assets/images/steven-morrison.png" alt="Picture" height="200" width="200">
+<style>
+	pfp {
+		color: red;
+	}
+</style>
+
+<img id="pfp" src="assets/images/steven-morrison.png" alt="Picture" height="200" width="200">
