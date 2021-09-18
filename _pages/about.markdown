@@ -8,8 +8,8 @@ excerpt:
 ---
 
 <style>
-	pfp {
-		color: red;
+	#pfp {
+		background-color: red;
 	}
 </style>
 
