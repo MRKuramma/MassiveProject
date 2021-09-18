@@ -9,7 +9,7 @@ excerpt:
 
 <style>
 	#pfp {
-		margin-left: 20px;
+		margin-left: 0px;
 	}
 </style>
 
